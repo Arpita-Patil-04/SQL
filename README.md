@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/Arpita-Patil-04/SQL/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/Arpita-Patil-04/SQL/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/Arpita-Patil-04/SQL/tree/master/0511-game-play-analysis-i) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Arpita-Patil-04/SQL/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Arpita-Patil-04/SQL/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
